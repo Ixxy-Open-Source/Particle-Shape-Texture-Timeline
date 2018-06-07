@@ -1,0 +1,3 @@
+[submodule "Packages/UnityTimelineEvents/repo"]
+	path = Packages/UnityTimelineEvents/repo
+	url = https://github.com/georgejecook/UnityTimelineEvents.git
